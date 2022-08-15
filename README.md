@@ -1,9 +1,9 @@
 ### Hi there I’m Zhichang Lin,👋
 
-A computer science student 🧑‍🎓 from University of Bristol. I fascinating with every theory and new ideas of computing!
+Computer science student 🧑‍🎓 from University of Bristol. I fascinating with every theory and new ideas of computing!
 
 - 🔭 I’m currently working on final project of degree.
-- 🌱 I’m learning smart contract and blockchain tech stacks.
+- 🌱 I’m learning smart contract and blockchain stacks.
 - 💬 I’m looking for software engineering internship or collaboration.
 - 📫 How to reach me: sameslam@outlook.com
 - ⚡ Vinyl digger, learning a new stack called music production.
