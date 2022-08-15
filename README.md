@@ -9,7 +9,7 @@ A computer science student 🧑‍🎓 from University of Bristol. I fascinating
 - ⚡ Vinyl digger, learning a new stack call music production.
 
 ### Insights of my previous project:
-* [Jammo Chat](https://github.com/UoB-IBM-TextMessaging-Team/JammoChat) 🤖💬 -  A collaboration with IBM, providing enhanced chatting experience mobile app with IBM Watson and Augmented Reality. I designed the architecture and hold the build system, and work within both Flutter and Unity.
+* [Jammo Chat](https://github.com/UoB-IBM-TextMessaging-Team/JammoChat) 🤖💬 -  A collaboration with IBM univeristy program, providing enhanced chatting experience mobile app with IBM Watson and Augmented Reality. I designed the architecture and hold the build system, and work within both Flutter and Unity.
 
 * [My Little Query](https://github.com/Cheong43/MyLittleQuery) 📊 -  A database project written on native Java. It contain a Recursive Descent Parser parse the SQL style query language, generating Abstract Syntax Tree data structure to a fully functional interpreter, which combine with well layered data structure to store data, and R/W local data with native java IO.
 
