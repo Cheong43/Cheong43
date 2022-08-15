@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Zhichang Lin, a computer science student 🧑‍🎓 from University of Bristol. I fascinating with every theory and ideas of computing!
+I’m Zhichang Lin, a computer science student 🧑‍🎓 from University of Bristol. I fascinating with every theory and new ideas of computing!
 
 - 🔭 I’m currently working on final project of degree.
 - 🌱 I’m currently learning smart contract and blockchain tech stacks.
