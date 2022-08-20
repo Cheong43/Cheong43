@@ -14,5 +14,3 @@ Computer science student 🧑‍🎓 from University of Bristol. I fascinating w
 * [My Little Query](https://github.com/Cheong43/MyLittleQuery) 📊 -  A database server project written on native Java. It contain a Recursive Descent Parser to parse the SQL-like language, detect input datatype and store in build-in datatype system, generating AST to recursive Interpreter, bind with designed data container, and R/W local data with java IO.
 
 * [Stock Trading Web Game](https://github.com/Cheong43/Stock_trading_game) 🤑 -  A stock trading web game based on real time NYSE stock price. Written on Flask framework. It simulate the stock buying and selling, contain a MySQL database connect with Flask, styled with Bootstrap.
-
-* ...
