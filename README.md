@@ -2,7 +2,7 @@
 
 Computer science student 🧑‍🎓 from University of Bristol. I fascinating with every theory and new ideas of computing!
 
-- 🔭 I’m currently working on final project of degree.
+- 🔭 I’m currently working on a student software team project.
 - 🌱 I’m learning smart contract and blockchain stacks.
 - 💬 I’m looking for software engineering internship or collaboration.
 - 📫 How to reach me: sameslam@outlook.com
