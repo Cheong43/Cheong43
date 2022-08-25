@@ -1,6 +1,6 @@
 ### Hi there I’m Zhichang Lin,👋
 
-Computer science student 🧑‍🎓. I enjoy and fascinating with every tech theory and new ideas!
+Computer science student 🧑‍🎓. I enjoy and fascinating by every tech theory and new idea!
 
 - 🔭 I’m currently working on a student software team project.
 - 🌱 I’m learning smart contract and blockchain stacks.
