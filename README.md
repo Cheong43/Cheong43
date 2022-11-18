@@ -2,7 +2,7 @@
 
 Computer science student 🧑‍🎓. I enjoy and fascinating by every tech theory and new idea!
 
-- 🔭 I’m currently working on a student software team project.
+- 🔭 I’m currently accepting freelance software developing job offer from Upworks.
 - 🌱 I’m learning smart contract and blockchain stacks.
 - 💬 I’m looking for software engineering internship or collaboration.
 - 📫 How to reach me: sameslam@outlook.com
