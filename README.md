@@ -2,7 +2,7 @@
 
 Computer science student 🧑‍🎓. I enjoy and fascinating by every tech theory and new idea!
 
-- 🌱 I’m learning smart contract and blockchain stacks.
+- 🌱 My current interest of works include web3 infra and governance.
 - 💬 I’m looking for software engineering internship or collaboration.
 - 📫 How to reach me: sameslam@outlook.com
 - ⚡ Vinyl digger, learning a new stack called music production.
