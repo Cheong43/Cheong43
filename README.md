@@ -1,6 +1,6 @@
 ### Hi there I’m Zhichang Lin,👋
 
-Computer science student 🧑‍🎓. I enjoy and fascinating by every tech theory and new idea!
+Computer science student 🧑‍🎓. I am constantly exploring new technologies and seeking ways to innovate and improve the world through the power of code.
 
 - 🌱 My current interest of works include web3 infra and governance.
 - 💬 I’m looking for software engineering internship or collaboration.
