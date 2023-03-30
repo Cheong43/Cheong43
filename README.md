@@ -2,9 +2,9 @@
 
 Computer science student 🧑‍🎓. I am constantly exploring new technologies and seeking ways to innovate and improve the world through the power of code.
 
-- 🌱 My current interest of works pivot to web3 infra and governance.
+- 🌱 My current interest of works pivot to distributed computing, web3 infra and governance.
 - 💬 I’m looking for software engineering internship or collaboration.
-- 📫 How to reach me: sameslam@outlook.com
+- 📫 How to reach me: pk21853@alumni.bristol.ac.uk
 - ⚡ Vinyl digger, learning a new stack called music production.
 
 ### Some of my previous project:
