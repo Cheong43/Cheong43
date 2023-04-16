@@ -1,11 +1,11 @@
 ### Hi there I’m Zhichang Lin,👋
 
-Computer science student 🧑‍🎓. I am constantly exploring new technologies and seeking ways to innovate and improve the world through the power of code.
+Breadth-first thinker. Philosophy > code, coding is my way toward free.
 
-- 🌱 My current interest of works pivot to distributed computing, web3 infra and governance.
-- 💬 I’m looking for software engineering internship or collaboration.
+- 🌱 My current interest of works pivot to social computing, web3 infra and governance.
+- 💬 Open to any fabulous idea. If you lookin for collabration, shot me a dm.
 - 📫 How to reach me: pk21853@alumni.bristol.ac.uk
-- ⚡ Vinyl digger, learning a new stack called music production.
+- ⚡ Vinyl digger, love chill vibe flowing in the house. [No Music, No Life.](https://duranduran.fandom.com/wiki/No_Music,_No_Life.)
 
 ### Some of my previous project:
 * [Jammo Chat](https://github.com/UoB-IBM-TextMessaging-Team/JammoChat) 🤖💬 -  A collaboration with IBM univeristy program, build joyful chat experience app with IBM Watson and Augmented Reality. I ensure the smooth functioning of technical operations, deal with all technical challenges, assist with other teammates, set goals, and ensure overall satisfaction. I wrote code within both Flutter and Unity.
