@@ -4,7 +4,6 @@ Breadth-first thinker. Philosophy > code, coding is my way toward free.
 
 - 🌱 My current interest of works pivot to social computing, web3 infra and governance.
 - 💬 Open to any fabulous idea. If you lookin for collabration, shot me a dm.
-- 📫 How to reach me: pk21853@alumni.bristol.ac.uk
 - ⚡ Vinyl digger, love chill vibe flowing in the house. [No Music, No Life.](https://duranduran.fandom.com/wiki/No_Music,_No_Life.)
 
 ### Some of my previous project:
