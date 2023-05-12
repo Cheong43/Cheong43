@@ -1,6 +1,6 @@
 ### Hi there I’m Zhichang Lin,👋
 
-- 🌱 My current interest of works pivot to social computing, web3 infra and governance.
+- 🌱 My current interest of works pivot to social computing and web3.
 - 💬 Open to any fabulous idea. If you lookin for collabration, shot me a dm.
 - ⚡ Vinyl digger, love chill vibe flowing in the house. [No Music, No Life.](https://duranduran.fandom.com/wiki/No_Music,_No_Life.)
 
