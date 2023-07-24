@@ -5,7 +5,7 @@
 - ⚡ Vinyl digger, love chill vibe flowing in da house. [No Music, No Life.](https://duranduran.fandom.com/wiki/No_Music,_No_Life.)
 
 ### Some of my previous project:
-* [ReadBy.ai](https://readby-web.vercel.app/) 🔮📄 -  Easily analyze and summarize any article or content that you save. AI will break down the key points and highlights, providing you with Link quick and concise summary that to retrive anytime.
+* [ReadBy](https://readby-web.vercel.app/) 🔮📄 -  Easily analyze and summarize any article or content that you save. AI will break down the key points and highlights, providing you with Link quick and concise summary that to retrive anytime.
 
 * [Jammo Chat](https://github.com/UoB-IBM-TextMessaging-Team/JammoChat) 🤖💬 -  A collaboration with IBM univeristy program, build joyful chat experience app with IBM Watson and Augmented Reality. I ensure the smooth functioning of technical operations, deal with all technical challenges, assist with other teammates, set goals, and ensure overall satisfaction. I wrote code within both Flutter and Unity.
 
