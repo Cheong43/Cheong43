@@ -23,7 +23,7 @@
 <code><img height="20" src="https://cdn.svgporn.com/logos/vercel.svg"></code>
 
 - 🌱 My current interest of works pivot to AR/VR.
-- ⚠️ New to work Site Reliability Engineer in China.
+- ⚠️ Fresh graduate site reliability engineer.
 - 💬 Open to any fabulous idea. If you lookin for collabration, shot me a dm.
 - ⚡ Vinyl digger, love chill vibe flowing in da house. [No Music, No Life.](https://duranduran.fandom.com/wiki/No_Music,_No_Life.)
 
