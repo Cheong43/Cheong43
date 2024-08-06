@@ -20,7 +20,7 @@
 <code><img height="20" src="https://cdn.svgporn.com/logos/aws.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/vercel.svg"></code>
 
-- ⚠️ Cloud, data & site reliabiliy engineering. 
+- ⚠️ Cloud, data & site reliability engineering. 
 - 💬 Open to any fabulous idea. If you lookin for collabration, shot me a dm.
 - ⚡ Vinyl digger, love chill vibe flowing in da house. [No Music, No Life.](https://duranduran.fandom.com/wiki/No_Music,_No_Life.)
 
