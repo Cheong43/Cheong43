@@ -12,11 +12,9 @@
 <code><img height="20" src="https://cdn.svgporn.com/logos/nextjs.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/graphql.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/mongodb.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/mysql.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/nginx.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/pwa.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/jenkins.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/docker-icon.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/aws.svg"></code>
