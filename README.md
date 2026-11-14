@@ -37,7 +37,3 @@
 * [ReadBy](https://readby-web.vercel.app/) 🔮📄 - AI read-it-later tool that summarizes any saved article — GPT + LangChain.
 
 * [My Little Query](https://github.com/Cheong43/MyLittleQuery) 📊 - A database server engine written in native Java: recursive descent parser, AST interpreter, and local I/O.
-
-## 📈
-
-![3D contribution graph](/profile-3d-contrib/profile-south-season-animate.svg)
