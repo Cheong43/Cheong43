@@ -24,7 +24,7 @@
 
 ## 🔥 Featured work
 
-* [X-Claw](https://github.com/Cheong43) 🔮🤖 - A production long-horizon agent system for enterprise and office workflows — skill routing, context & memory management, sandboxed execution, and an agent eval framework with a **97% core-task regression success rate**.
+* [X-Claw](https://loveconnect.us/projects/1) 🔮🤖 - A production long-horizon agent system for enterprise and office workflows — skill routing, context & memory management, sandboxed execution, and an agent eval framework with a **97% core-task regression success rate**.
 
 * [mitosis-cli](https://github.com/Cheong43/mitosis-cli) 🧬⌨️ - A memory-aware coding agent CLI built with React & Ink: branching ReAct, five governed tools, Mempedia long-term memory, reusable SKILL.md workflows, and sandboxed local execution.
 
