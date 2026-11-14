@@ -2,27 +2,17 @@
 
 **AI Application Engineer / AI Agent Engineer** — I build enterprise AI applications, agent systems, and reliable LLM workflows from zero to production.
 
-<code><img height="20" src="https://cdn.svgporn.com/logos/javascript.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/typescript-icon.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/python.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/java.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/go.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/rust.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/vercel.svg"></code>
-
-<code><img height="20" src="https://cdn.svgporn.com/logos/react.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/nextjs.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/flutter.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg"></code>
-
+<code><img height="20" src="https://cdn.svgporn.com/logos/openai.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/langchain.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/hugging-face.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/pytorch.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/tensorflow.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/ollama.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/qwen.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/elasticsearch.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/mongodb.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/mysql.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/docker-icon.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/jenkins.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/nginx.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/aws.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/pinecone.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/jupyter.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/python.svg"></code>
 
 - 🤖 Building **long-horizon enterprise agents** — agent runtimes, ReAct & Plan-and-Execute flows, skill routing, RAG pipelines, and model evaluation that ships to production.
 - 🔎 RAG & retrieval: BM25, vector search, reranking, Elasticsearch, knowledge-base QA.
