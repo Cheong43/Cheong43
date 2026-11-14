@@ -30,7 +30,7 @@
 - 💬 Open to any fabulous idea — if you're looking for collaboration, shoot me a DM.
 - ⚡ Vinyl digger, love chill vibe flowing in da house. [No Music, No Life.](https://duranduran.fandom.com/wiki/No_Music,_No_Life.)
 
-📝 Writing about what I build and learn at my [blog](https://github.com/Cheong43/Cheong43_blog_main) · 📫 alfiezclin@outlook.com
+📝 Writing about what I build and learn at my [blog](http://loveconnect.us/) · 📫 alfiezclin@outlook.com
 
 ## 🔥 Featured work
 
