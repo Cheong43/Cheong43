@@ -10,7 +10,6 @@
 <code><img height="20" src="https://cdn.svgporn.com/logos/ollama.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/qwen.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/elasticsearch.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/pinecone.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/jupyter.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/python.svg"></code>
 
